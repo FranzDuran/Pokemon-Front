@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b20bbe8.chunk.css",
+    "main.js": "/static/js/main.c7d9f1ba.chunk.js",
+    "main.js.map": "/static/js/main.c7d9f1ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7199751e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7199751e.js.map",
+    "static/js/2.b79e5557.chunk.js": "/static/js/2.b79e5557.chunk.js",
+    "static/js/2.b79e5557.chunk.js.map": "/static/js/2.b79e5557.chunk.js.map",
+    "static/js/3.bbcdbc55.chunk.js": "/static/js/3.bbcdbc55.chunk.js",
+    "static/js/3.bbcdbc55.chunk.js.map": "/static/js/3.bbcdbc55.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1b20bbe8.chunk.css.map": "/static/css/main.1b20bbe8.chunk.css.map",
+    "static/js/2.b79e5557.chunk.js.LICENSE.txt": "/static/js/2.b79e5557.chunk.js.LICENSE.txt",
+    "static/media/actualizar.fa00fd44.png": "/static/media/actualizar.fa00fd44.png",
+    "static/media/descarga.c90d6101.jpg": "/static/media/descarga.c90d6101.jpg",
+    "static/media/img incognito.d7a9f974.jpg": "/static/media/img incognito.d7a9f974.jpg",
+    "static/media/linkedin.f249b382.png": "/static/media/linkedin.f249b382.png",
+    "static/media/loading.1aed18de.gif": "/static/media/loading.1aed18de.gif",
+    "static/media/perfil.8948fce4.jpg": "/static/media/perfil.8948fce4.jpg",
+    "static/media/poke.7aed586e.png": "/static/media/poke.7aed586e.png",
+    "static/media/pokebola.8d88f581.gif": "/static/media/pokebola.8d88f581.gif",
+    "static/media/pokemon.bad98922.jpg": "/static/media/pokemon.bad98922.jpg",
+    "static/media/sequelize.d98b2554.png": "/static/media/sequelize.d98b2554.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7199751e.js",
+    "static/js/2.b79e5557.chunk.js",
+    "static/css/main.1b20bbe8.chunk.css",
+    "static/js/main.c7d9f1ba.chunk.js"
+  ]
+}
