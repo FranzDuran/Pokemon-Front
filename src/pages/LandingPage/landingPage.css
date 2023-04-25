@@ -1,11 +1,11 @@
-.container {
+.landingPage-container {
     display: flex;
     height: 100vh;
     color: #f8f8f8;
     justify-content: space-between;
 }
 
-.container-info {
+.landingPage-container-info {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -25,7 +25,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.button {
+.landingPage-button {
     color: #050505;
     background: #f8f8f8;
     width: 100px;
@@ -53,11 +53,11 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .container {
+    .landingPage-container {
         display: none;
     }
 
-    .container-responsive {
+    .landingPage-container-responsive {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -68,26 +68,26 @@
         padding: 0 25px;
     }
 
-    .container-info {
+    .landingPage-container-info {
         display: none;
     }
 
-    .container-img {
+    .landingPage-container-img {
         display: none;
     }
 
-    .text {
+    .landingPage-text {
         font-size: 25px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
-    .tittle {
+    .landingPage-tittle {
         font-size: 50px;
         margin: 10px 0 25px 0;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
-    .button {
+    .landingPage-button {
         color: #050505;
         background: #f8f8f8;
         width: 100px;
@@ -98,7 +98,7 @@
         border: 1px solid yellow;
     }
 
-    .img {
+    .landingPage-img {
         width: 150px;
         margin-top: 25px;
     }
