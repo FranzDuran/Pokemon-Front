@@ -21,7 +21,7 @@ const Footer = () => {
                 <ul className="footer-seccion">
                     <li className='text-tittle'>Enlaces</li>
                     <li>
-                        <a href="https://pokeapi.co/" class='text-reset' style={{ textDecoration: 'none', color: 'inherit' }}>PokemonApi</a>
+                        <a href="https://pokeapi.co/" className='text-reset' style={{ textDecoration: 'none', color: 'inherit' }}>PokemonApi</a>
                     </li>
                 </ul>
                 <ul className="footer-seccion">

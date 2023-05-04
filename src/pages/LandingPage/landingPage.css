@@ -15,11 +15,11 @@
     background: rgba(0, 0, 0, 0.918);
 }
 
-.container-info p {
-    font-size: 25px;
+.landingPage-container-info p {
+    font-size: 35px;
 }
 
-.container-info h3 {
+.landingPage-container-info h3 {
     font-size: 50px;
     margin: 10px 0 25px 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -28,17 +28,19 @@
 .landingPage-button {
     color: #050505;
     background: #f8f8f8;
-    width: 100px;
-
-    padding: 10px 15px 13px 15px;
+    /* width: 100px; */
+    padding: 10px 20px 13px 20px;
     text-decoration: none;
     text-align: center;
     border-radius: 8px;
     border: 1px solid yellow;
-    transition: transform 0.3s ease-in-out;
+    font-size: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+
 }
 
-.button:hover {
+.landingPage-button:hover {
     transform: scale(1.1);
     box-shadow: 0 0 5px rgba(125, 125, 255, 0.5);
     border: 1px solid yellow;
@@ -49,6 +51,10 @@
 }
 
 .container-responsive {
+    display: none;
+}
+
+.landingPage-container-responsive{
     display: none;
 }
 
@@ -82,12 +88,12 @@
     }
 
     .landingPage-tittle {
-        font-size: 50px;
+        font-size: 35px;
         margin: 10px 0 25px 0;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
-    .landingPage-button {
+    .landingPage-button-responsive {
         color: #050505;
         background: #f8f8f8;
         width: 100px;
