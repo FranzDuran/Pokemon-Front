@@ -27,6 +27,7 @@
   background-color: transparent;
   color: #fff;
   position: relative;
+  cursor: pointer;
 }
 .nav_items button:hover{
   background-color: #c62828;
